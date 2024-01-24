@@ -91,6 +91,29 @@ body {
 }
 
 /* You can add more styles for your navigation links and logo */
+/* Include the desired Google Fonts in your HTML file or link them in your CSS file */
+
+/* Font for Estately */
+.font1 {
+  font-family: 'Roboto', sans-serif; /* Replace 'Roboto' with your desired font for Estately */
+}
+
+/* Font for homzy */
+.font2 {
+  font-family: 'Montserrat', sans-serif; /* Replace 'Montserrat' with your desired font for homzy */
+}
+
+/* Font for urEstate */
+.font3 {
+  font-family: 'Open Sans', sans-serif; /* Replace 'Open Sans' with your desired font for urEstate */
+}
+
+/* Font for HomeDeco */
+.font4 {
+  font-family: 'Playfair Display', serif; /* Replace 'Playfair Display' with your desired font for HomeDeco */
+}
+
+/* Add more font classes as needed */
 
 /*-------------------------hero------------------------*/
 .hero {
