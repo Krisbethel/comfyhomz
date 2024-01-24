@@ -90,22 +90,21 @@ body {
   margin-left: -10px;
 }
 
-/* You can add more styles for your navigation links and logo */
 /* Include the desired Google Fonts in your HTML file or link them in your CSS file */
 
 /* Font for Estately */
 .font1 {
-  font-family: 'Roboto', sans-serif; /* Replace 'Roboto' with your desired font for Estately */
+  font-family: 'Rubik Burned', sans-serif; /* Replace 'Roboto' with your desired font for Estately */
 }
 
 /* Font for homzy */
 .font2 {
-  font-family: 'Montserrat', sans-serif; /* Replace 'Montserrat' with your desired font for homzy */
+  font-family: 'Climate Crisis', sans-serif; /* Replace 'Montserrat' with your desired font for homzy */
 }
 
 /* Font for urEstate */
 .font3 {
-  font-family: 'Open Sans', sans-serif; /* Replace 'Open Sans' with your desired font for urEstate */
+  font-family: 'Dancing Script', cursive; /* Replace 'Open Sans' with your desired font for urEstate */
 }
 
 /* Font for HomeDeco */
