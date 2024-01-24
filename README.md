@@ -1,4 +1,4 @@
-# Real Estate Landing Page
+# COMFYhomz
 
 Welcome to the Real Estate Landing Page project! This landing page is designed for showcasing real estate properties and attracting potential clients. Whether you're a real estate agent, property manager, or developer, this landing page can help you make a strong online presence.
 
